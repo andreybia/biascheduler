@@ -1,0 +1,36 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="My" GeneratedClassName="MySettings" UseMySettingsClassName="true">
+  <Profiles />
+  <Settings>
+    <Setting Name="connection" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Data Source=LeoTest\SQLEXPRESS;Initial Catalog=robots;Persist Security Info=True;User ID=webSericeUser;Password=H96yN40Wp2jZZDaaVSnF</Value>
+    </Setting>
+    <Setting Name="shedNameHourlyText" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Hourly</Value>
+    </Setting>
+    <Setting Name="reportEveryMinText" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">minute</Value>
+    </Setting>
+    <Setting Name="reportEveryHourText" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">hour</Value>
+    </Setting>
+    <Setting Name="shedNameWeeklyText" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Weekly</Value>
+    </Setting>
+    <Setting Name="specificText" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">specific time</Value>
+    </Setting>
+    <Setting Name="betweenText" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">between</Value>
+    </Setting>
+    <Setting Name="shedNameSpecDatesText" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">On specific dates</Value>
+    </Setting>
+    <Setting Name="actionNameSendEmailText" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Send Email</Value>
+    </Setting>
+    <Setting Name="unb" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">LEOLEV.CB1032021_SQHxXCst961W</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
